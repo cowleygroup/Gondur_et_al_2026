@@ -4,7 +4,7 @@ Code accompanying the paper [A tale of two tails: Preferred and anti-preferred n
 
 
 <p align="center">
-  <img src="imgs/fig1.png" alt="Fig1" width="80%">
+  <img src="imgs/thumbnail.pdf" alt="Fig1" width="80%">
 </p>
 
 [1] Gondur, R., Stan, P. L., Smith, M. A., & Cowley, B. R. (2025, October). A tale of two tails: Preferred and anti-preferred natural stimuli in visual cortex. In The Fourteenth International Conference on Learning Representations.
