@@ -21,6 +21,8 @@ Code accompanying the paper [A tale of two tails: Preferred and anti-preferred n
 - scikit-learn 1.4.1
 ```
 
+## General Guide
+- Each directory in this repository contains the code used to generate results for the corresponding figure in our paper. **Note:** The code assumes you already have access to the V4 data and compact models. Please refer to this [repo](https://github.com/cshl/V4_compact_models) to download the V4 data and have access to compact models, called V4 model neurons in our paper. We also used 3 other publicly available neural datasets for our analysis in `fig2`, for more information on them, please see the references in our paper. 
 
 ## Citation
 
